@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rebeccareedel
-- 👀 I’m interested in programming, embedded systems and learning more!
-- 🌱 I’m currently studying computer science at Simon Fraser University.
+- 👀 I’m interested in software development, embedded systems and learning more!
+- 🌱 I’m currently studying Computer Science at Simon Fraser University.
